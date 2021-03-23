@@ -5,4 +5,3 @@ fastai
 ipywidgets==7.5.1
 pillow<7
 packaging
-streamlit
